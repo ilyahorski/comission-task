@@ -1,0 +1,14 @@
+{
+  "weeklyStartDate": "2016-02-15",
+  "currentWeek": "2016-02-15",
+  "quotas": {
+    "1": {
+      "totalAmount": 300,
+      "freeAmountUsed": 300
+    },
+    "3": {
+      "totalAmount": 0,
+      "freeAmountUsed": 0
+    }
+  }
+}
